@@ -1,0 +1,29 @@
+body {
+  background: #c7eef3;
+}
+
+h1 {
+  color: #000000;
+  text-align: center;
+}
+
+body.body2 {
+  background: #000000;
+}
+
+h1.title2 {
+  color: #c7eef3;
+}
+
+.cardStyle{
+    background: #c7eef3;
+    width: 300px;
+    height: 300px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
